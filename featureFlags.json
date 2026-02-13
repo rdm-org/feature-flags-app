@@ -1,4 +1,4 @@
 {
-  "DocumentationLoginRemoval": true, 
-  "LoginLogoutRemoval": true
+  "DocumentationLoginRemoval": false, 
+  "LoginLogoutRemoval": false
 }
