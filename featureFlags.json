@@ -1,5 +1,5 @@
 {
   "DocumentationLoginRemoval": false, 
   "LoginLogoutRemoval": false,
-  "CrashLogEnabled": true
+  "CrashLogEnabled": false
 }
